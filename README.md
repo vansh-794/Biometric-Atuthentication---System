@@ -25,9 +25,4 @@ A high-performance Biometric Authentication System using computer vision and mac
 
 ---
 
-## 💡 Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/shrivastava03/biometric-auth-system.git
-   cd biometric-auth-system
